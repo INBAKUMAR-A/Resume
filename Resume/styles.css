@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.page1{
+    border: 2px solid black;
+    padding: 50px;
+    margin: 70px 60px;
+    padding-left: 90px;
+}
+body .form1{
+    margin-top: 60px;
+    text-align: left;
+}
+body .img{
+    width: 180px;
+    position:absolute;
+    top: 95px;
+    left: 980px;
+}
+body .form2{
+    margin-top: 60px;
+    text-align: left;
+}
+body .address{
+    width: 180px;
+    position:absolute;
+    top: 390px;;
+    left: 980px;
+    
+}
+body .box{
+    width: 100%;
+    height: 25px;
+    padding: 5px;
+    margin-top: 5px;
+    font-weight:bolder;
+    font-size: 1.2rem;
+    background-color: #ece4cc;
+}
+body .experience{
+    margin: 20px;
+}
+body .academic{
+    margin-top: 20px;
+    margin-left: 120px;
+    text-align: center;
+}
+
+.academic table{
+    border-collapse: collapse;
+}
+.academic table td , .academic table th{
+    padding: 10px;
+}
+body .sem{
+    outline: none;
+    margin-top: 20px;
+    margin-left: 250px;
+    text-align: center;
+    padding: 40px;
+}
+.sem table{
+    border-collapse: collapse;
+    width: 100px;
+    
+}
+.sem table th, .sem table td{
+    padding: 10px;
+}
+body .ss{
+    outline: none;
+    margin-top: 20px;
+    margin-left: 250px;
+    text-align: left;
+    padding: 40px;
+}
+.ss table{
+    border-collapse: collapse;
+}
+.ss table td , .ss table th{
+    padding: 10px;
+}
+.page2{
+    border: 2px solid black;
+    padding: 50px;
+    margin: 70px 60px;
+    padding-left: 90px;
+}
+.page2 span{
+    margin-left: 40px;
+}
+.page2 .project{
+    margin-top: 20px;
+    line-height: 1.6;
+}
+.page2 .cca{
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.page2 .intern{
+    outline: none;
+    margin-top: 20px;
+    margin-left: 180px;
+    text-align: center;
+    padding: 40px;
+}
+.intern table{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+.intern td,.intern th{
+
+    padding: 10px;
+}
+.page2 .hobbies{
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.page2 .declar{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.page2 .footerleft{
+    position: absolute;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.page2 .footerright{
+    position: absolute;
+    margin-top: 30px;
+    left:1050px;
+}
+.page2 .sign{
+    position: absolute;
+    margin-top: -30px;
+    left:1000px;
+}
